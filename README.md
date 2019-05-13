@@ -9,3 +9,5 @@ Here is a collection of small projects involving various forms of Deep Learning 
     
 
 3. Study of RNN, where I make it predict circular trajectories. (work in progress)
+
+4. Making a chatbot, using NLP. (work in progress)
