@@ -9,8 +9,3 @@ Here is a collection of small projects involving various forms of Deep Learning 
     
 
 3. Study of RNN, where I make it predict circular trajectories. (work in progress)
-
-
-4. My solution to Preferred Networks 2018 ML intern coding tests (https://github.com/pfnet/intern-coding-tasks)
-  It's still a work in progress, and will be expanded shortly. 
-  
